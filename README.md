@@ -1,16 +1,11 @@
-### Hola 👋
+### Hola 👋 ###
+##Daniel Cornejo##
 
-<!--
-**dcornejofmq/dcornejofmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo más de 30 años de experiencia en desarrollo de aplicaciones, estoy dando mis primeros pasos en el desarrollo WEB
 
-Here are some ideas to get you started:
+Habilidades: JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-🌱 Estoy aprendiendo desarrollo FullStack
-👯 Estoy colaborando en un proyecto Integrador del curso FullStack
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estoy aprendiendo Desarrollo FullStack 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dcornejofmq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dacornejo//)  
